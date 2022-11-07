@@ -2,7 +2,7 @@ import { Heading, VStack } from "native-base";
 import { Text } from "react-native";
 
 import Logo from "../assets/logo.svg";
-import { Button } from "../components/button";
+import { Button } from "../components/Button";
 import { Header } from "../components/Header";
 import { Input } from "../components/Input";
 
